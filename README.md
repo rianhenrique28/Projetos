@@ -134,4 +134,6 @@ Conclusão
 
 Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como uma ferramenta poderosa para o desenvolvimento pessoal e financeiro.
 
-Além disso, reforçou a importância da clareza nos objetivos e da qualidade dos prompts para obter aprendizados mais profundos e aplicáveis.
+Além disso, reforçou a importância da clareza nos objetivos e da qualidade dos prompts para obter aprendizados mais profundos e aplicáveis
+
+LINK DO CHAT PARA SUA MELHORA: https://notebooklm.google.com/notebook/f672946b-b2ed-462a-b2ba-dbd48c58a74d
